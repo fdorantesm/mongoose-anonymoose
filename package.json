@@ -1,0 +1,25 @@
+{
+  "name": "mongoose-anoymoose",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "author": "Fernando Dorantes <fernando@dorant.es>",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fdorantesm/mongoose-anonymoose"
+  },
+  "url": "https://github.com/fdorantesm/mongoose-anonymoose",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "peerDependencies": {
+    "mongoose": "^7.6.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
